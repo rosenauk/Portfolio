@@ -1,2 +1,2 @@
 # Portfolio
-This is a portfolio with some of my work in it
+This is a portfolio with work by Kyle Rosenu.
